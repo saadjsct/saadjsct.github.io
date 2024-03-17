@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.fafb0a1e.css",
+    "main.css": "/static/css/main.aec03bbe.css",
     "main.js": "/static/js/main.db5aabb9.js",
     "static/js/787.0f8d78ff.chunk.js": "/static/js/787.0f8d78ff.chunk.js",
+    "static/media/arfonts-tajawal-bold.ttf": "/static/media/arfonts-tajawal-bold.5225a40edb511ebac6f5.ttf",
+    "static/media/arfonts-tajawal-regular.ttf": "/static/media/arfonts-tajawal-regular.e4ac0a5abb7d379e2308.ttf",
     "index.html": "/index.html",
-    "main.fafb0a1e.css.map": "/static/css/main.fafb0a1e.css.map",
+    "main.aec03bbe.css.map": "/static/css/main.aec03bbe.css.map",
     "main.db5aabb9.js.map": "/static/js/main.db5aabb9.js.map",
     "787.0f8d78ff.chunk.js.map": "/static/js/787.0f8d78ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fafb0a1e.css",
+    "static/css/main.aec03bbe.css",
     "static/js/main.db5aabb9.js"
   ]
 }
